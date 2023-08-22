@@ -57,9 +57,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arsdeep/arsdeep/output/snake.svg" alt="Snake animation" />
-
-###

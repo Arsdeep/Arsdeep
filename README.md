@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer & Data scientist</h3>
 
 ###
 

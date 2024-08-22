@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking to collaborate on Data Analysis Projects<br>🤝 I’m looking for help with Machine Learning and Deep Learning<br>🌱 I’m currently learning Data Science<br>💬 Ask me about geeky stuff<br>⚡ I use Arch :P
+🔭 Looking to collaborate on Data Analysis Projects<br>🤝 Looking for help with Machine Learning and Deep Learning<br>🌱 Currently learning Data Science<br>💬 Ask me about geeky stuff<br>⚡ I use Arch :P
 
 
 ## 🌐 Socials:
